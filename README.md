@@ -25,10 +25,10 @@
 - Перелет нравится.
 - Перелет не нравится.
 
-### Карта с возможностью построить маршрут до пункта назначения с аудио и видео сопровождением
+### Первый экран
 
 <img src="https://github.com/indianajonez/WB_travel/blob/main/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202023-11-27%20at%2015.50.00.png" width="200"/>
 
-### Работа с сетью - отправка запроса и получение данных из сети
+### Второй экран
 
 <img src="https://github.com/indianajonez/WB_travel/blob/main/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202023-11-27%20at%2015.50.06.png" width="200"/>
